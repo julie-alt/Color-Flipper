@@ -1,0 +1,11 @@
+.main{
+  position: relative;
+  top: 250px;
+}
+#title{
+  font-size: 40px;
+  font-weight: 700;
+}
+#color-text{
+  font-size: 20px;
+}
